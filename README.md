@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 I’m  Ajayi dayo, a passionate Data Analyst specializing in SQL-based data analysis, visualization, and business insights.
 I enjoy transforming raw data into actionable insights and creating clean, efficient analytical workflows.
 
