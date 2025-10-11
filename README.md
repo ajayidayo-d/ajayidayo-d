@@ -15,6 +15,27 @@ I thrive at the intersection of **data, technology, and business**, continuously
 
 --🧮 Conduct statistical quality control and sampling analysis
 
+## 🧠 Technical Summary  
+
+- **Data Analysis & Reporting:** Excel (Pivot Tables, Power Query), Power BI, R  
+- **Database Querying:** SQL Server, Oracle Database, Odoo ERP  
+- **Statistical Modelling:** Regression, Sampling, Control Charts, Hypothesis Testing  
+- **Data Transformation:** Query optimization, DAX, and advanced Excel formulas  
+- **Automation & Dashboards:** Power BI, Excel Macros, Odoo Analytics  
+- **Project Management:** Data Cleaning, Exploratory Data Analysis (EDA), KPI reporting  
+
+---
+
+## 🧰 Tools & Technologies  
+
+| Category | Tools |
+|-----------|--------|
+| **Data Analysis** | Excel, Power BI, R |
+| **Databases** | SQL Server, Oracle, Odoo ERP |
+| **Programming** | SQL, R |
+| **Data Visualization** | Power BI, Excel Charts |
+| **Version Control** | Git, GitHub |
+
 ##🧩 Featured Projects
 Project	Description
 Retail Sales Analysis
@@ -22,13 +43,6 @@ Retail Sales Analysis
 Netflix Data Analysis
 	SQL-based project exploring global Netflix content trends.
 
-## 🛠 Tech Stack
-
-Languages: SQL, R
-
-Tools: Microsoft SQL Server, Excel, Power BI
-
-Skills: Data Cleaning, Visualization, Statistical Analysis, Quality Control
 
 ##🌐 Connect With Me
 
