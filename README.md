@@ -34,7 +34,7 @@ Skills: Data Cleaning, Visualization, Statistical Analysis, Quality Control
 
 --💼 LinkedIn: https://www.linkedin.com/in/ajayi-dayo-37b34a26b/?trk=opento_sprofile_topcard
 
---🧑‍💻 GitHub
+--🧑‍💻 GitHub :https://github.com/ajayidayo-d
 
 --✉️ Email: ajayidayo31@gmail.com
 
