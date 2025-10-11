@@ -37,9 +37,10 @@ I thrive at the intersection of **data, technology, and business**, continuously
 | **Version Control** | Git, GitHub |
 
 ##🧩 Featured Projects Project	Description
---Retail Sales Analysis
+
+| **Retail Sales Analysis
 	SQL project analyzing customer and sales patterns.
---Netflix Data Analysis
+| **Netflix Data Analysis
 	-SQL-based project exploring global Netflix content trends.
 
 
