@@ -1,6 +1,9 @@
 ## Hi there 👋
-I’m  Ajayi dayo, a passionate Data Analyst specializing in SQL-based data analysis, visualization, and business insights.
-I enjoy transforming raw data into actionable insights and creating clean, efficient analytical workflows.
+I am a passionate **Data Analyst** skilled in transforming raw data into actionable insights for strategic decision-making.  
+With hands-on experience using **Excel, SQL, Power BI, R, Oracle, and Odoo**, I help organizations uncover patterns, monitor performance, and enhance productivity through data-driven solutions.  
+
+I thrive at the intersection of **data, technology, and business**, continuously learning to improve efficiency and value creation.
+
 
 ##🧠 What I Do
 
