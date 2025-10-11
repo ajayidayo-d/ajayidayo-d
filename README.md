@@ -34,7 +34,7 @@ I thrive at the intersection of **data, technology, and business**, continuously
 | **Databases** | SQL Server, Oracle, Odoo ERP |
 | **Programming** | SQL, R |
 | **Data Visualization** | Power BI, Excel Charts |
-| **Version Control** | Git, GitHub |
+| **Version Control** | GitHub |
 
 ##🧩 Featured Projects Project	Description
 
