@@ -36,12 +36,11 @@ I thrive at the intersection of **data, technology, and business**, continuously
 | **Data Visualization** | Power BI, Excel Charts |
 | **Version Control** | Git, GitHub |
 
-##🧩 Featured Projects
-Project	Description
-Retail Sales Analysis
+##🧩 Featured Projects Project	Description
+--Retail Sales Analysis
 	SQL project analyzing customer and sales patterns.
-Netflix Data Analysis
-	SQL-based project exploring global Netflix content trends.
+--Netflix Data Analysis
+	-SQL-based project exploring global Netflix content trends.
 
 
 ##🌐 Connect With Me
