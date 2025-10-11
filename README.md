@@ -42,6 +42,8 @@ I thrive at the intersection of **data, technology, and business**, continuously
 	SQL project analyzing customer and sales patterns.
 | **Netflix Data Analysis
 	-SQL-based project exploring global Netflix content trends.
+	**E-Commerce Sales Dashboard (Power BI) project.
+	-The dashboard provides a comprehensive view of sales trends, top and bottom-performing products, and regional performance
 
 
 ##🌐 Connect With Me
