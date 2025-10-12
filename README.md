@@ -1,8 +1,8 @@
 ## Hi there 👋
 I am a passionate **Data Analyst** skilled in transforming raw data into actionable insights for strategic decision-making.  
-With hands-on experience using **Excel, SQL, Power BI, R, Oracle, and Odoo**, I help organizations uncover patterns, monitor performance, and enhance productivity through data-driven solutions.  
+With hands-on experience using **Microsoft Excel, SQL, Power BI, R, Oracle, and Odoo**. I help organizations uncover patterns, monitor performance, and enhance productivity through data-driven solutions.  
 
-I thrive at the intersection of **data, technology, and business**, continuously learning to improve efficiency and value creation.
+I thrive at the intersection of **data, technology, and business** continuously learning to improve efficiency and value creation.
 
 
 ##🧠 What I Do
