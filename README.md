@@ -4,6 +4,7 @@ With hands-on experience using **Microsoft Excel, SQL, Power BI, R, Oracle, and 
 
 I thrive at the intersection of **data, technology, and business** continuously learning to improve efficiency and value creation.
 
+---
 
 ##🧠 What I Do
 
@@ -14,6 +15,8 @@ I thrive at the intersection of **data, technology, and business** continuously 
 --📊 Design dashboards that tell meaningful business stories
 
 --🧮 Conduct statistical quality control and sampling analysis
+
+---
 
 ## 🧠 Technical Summary  
 
@@ -36,6 +39,8 @@ I thrive at the intersection of **data, technology, and business** continuously 
 | **Data Visualization** | Power BI, Excel Charts |
 | **Version Control** | GitHub |
 
+---
+
 ##🧩 Featured Projects Project	Description
 
 | **Retail Sales Analysis
@@ -45,6 +50,8 @@ I thrive at the intersection of **data, technology, and business** continuously 
 	**E-Commerce Sales Dashboard (Power BI) project.
 	-The dashboard provides a comprehensive view of sales trends, top and bottom-performing products, and regional performance
 
+
+---
 
 ##🌐 Connect With Me
 
