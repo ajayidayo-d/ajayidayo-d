@@ -49,6 +49,8 @@ I thrive at the intersection of **data, technology, and business** continuously 
 	-SQL-based project exploring global Netflix content trends.
 	**E-Commerce Sales Dashboard (Power BI) project.
 	-The dashboard provides a comprehensive view of sales trends, top and bottom-performing products, and regional performance
+	**Monday_Coffee_Expansion_Project
+	-The Monday Coffee Expansion Project is a SQL-based data analysis focused on understanding customer behavior, sales performance, and market potential across different cities.
 
 
 ---
